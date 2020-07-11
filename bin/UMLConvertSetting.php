@@ -12,6 +12,6 @@ if (!file_exists($rootUML)) {
 }
 
 if (!file_exists($rootUML . '*.uml')) {
-    throw new Exception('please put the UML files in the folder yourProject/UML/storm');
+    echo "\033[31m please put the UML files in the folder yourProject/UML/storm \n";
     exit;
 }
