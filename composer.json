@@ -1,5 +1,5 @@
 {
-  "name": "snegovskii_anatolii/storm_uml_to_drawio",
+  "name": "umlconvert",
   "description": "This pakedge converted UML phpStorm to UML draw.io",
   "license": "GPL-3.0-only",
   "authors": [
