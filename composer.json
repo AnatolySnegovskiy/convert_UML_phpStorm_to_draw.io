@@ -1,0 +1,22 @@
+{
+  "name": "Snegovskii_Anatolii/storm_uml_to_drawio",
+  "description": "This pakedge converted UML phpStorm to UML draw.io",
+  "license": "GPL-3.0-only",
+  "authors": [
+    {
+      "name": "Snegovskii Anatolii",
+      "email": "CarrionGrow@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0",
+    "ext-json": "*",
+    "somesh/php-query": "^2.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^7"
+  },
+  "autoload": {
+    "classmap": ["src"]
+  }
+}
